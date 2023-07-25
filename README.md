@@ -1,2 +1,2 @@
 # fed-challenges
-Javascript front end challenges
+CSS and Javascript front end challenges
